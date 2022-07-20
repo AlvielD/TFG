@@ -1,5 +1,5 @@
 # TFG
-This is the repository of my Degree's Final Proyect, also known as, TFG (Trabajo de Fin de Grado) in Spanish.
+This is the repository of my Degree's Final Proyect, also known as TFG (Trabajo de Fin de Grado) in Spanish.
 
 ## Title of the proyect
 (ES) **Detección de noticias falsas mediante técnicas de Deep Learning.**  
