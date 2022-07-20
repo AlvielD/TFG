@@ -7,7 +7,7 @@ This is the repository of my Degree's Final Proyect, also known as, TFG (Trabajo
 
 ## Contents:
 ### Documents
-It is highly suggested to take a look at the [technical report](https://github.com/AlvielD/TFG/blob/main/documents/TechnicalReport.pdf) before checking the notebooks.
+It is highly suggested to take a look at the [technical report](https://github.com/AlvielD/TFG/blob/main/documents/TechnicalReport.pdf) before checking the notebooks.  
 To defend the thesis I was asked to design a presentation. You can check it [here](https://github.com/AlvielD/TFG/blob/main/documents/DefencePresentation.pdf).
 
 ### Notebooks
