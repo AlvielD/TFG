@@ -36,7 +36,7 @@ Try to keep them on that folder, change the code lines where the files path is s
 In the notebook [train_model](https://github.com/AlvielD/TFG/blob/main/notebooks/train_model.ipynb) it is indicated step by step how to train the models to solve the task. There is a list of models I tested. You can simply uncomment the one you want to try and even change parameters.
 
     #MODEL_CHECKPOINT = "PlanTL-GOB-ES/roberta-large-bne"
-    MODEL_CHECKPOINT = "bertin-project/bertin-roberta-base-spanish" --> Uncomment the model you wan to use
+    MODEL_CHECKPOINT = "bertin-project/bertin-roberta-base-spanish" --> Uncomment the model you want to use
     #MODEL_CHECKPOINT = "bert-base-uncased"
 
 There are some options you can change depending exactly on what you want to do.
@@ -76,7 +76,7 @@ You can also define a different preprocessing for each model with the variables 
 
 ## Documents
 
-There is a technical [report](https://github.com/AlvielD/TFG/blob/main/documents/TechnicalReport.pdf) which describes in depth the objectives of the project, the results and conclusions. It is highly suggeste to take a look at it.
+There is a technical [report](https://github.com/AlvielD/TFG/blob/main/documents/TechnicalReport.pdf) which describes in depth the objectives of the project, the results and conclusions. It is highly suggested to take a look at it.
 
 You can also check the [presentation](https://github.com/AlvielD/TFG/blob/main/documents/DefencePresentation.pdf). I made to defend the project in front of the jury.
 
@@ -95,4 +95,4 @@ I want also to give special thanks to Laura Vázquez Ramos for helping me with t
 
 Special thanks also to Rainui Ly for introducing me on the use of python and github.
 
-Want to dedicate the cum laude on this project to G.C.
+I want to dedicate the cum laude on this project to G.C.
